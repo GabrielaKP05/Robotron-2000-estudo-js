@@ -9,9 +9,9 @@
 }
 
 body {
-    background: url(fundo.jpg);
+    background: url(/fundo.jpg);
     background-position: center center;
-    background-size: cover;
+    background-size: cover cover;
     padding: 0;
     margin: 0;
     font-weight: 300;
@@ -30,7 +30,7 @@ main {
 }
 
 .robotron {
-    background: url(estrutura.png) no-repeat;
+    background: url(/estrutura.png) no-repeat;
     background-position: center center;
     margin: 0;
     flex-basis: 40%;
